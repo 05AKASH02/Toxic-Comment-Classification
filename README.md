@@ -1,12 +1,9 @@
 # Toxic Comment Classification
-### Group Project for MSDS621 Machine Learning at University of San Francisco
+### Group Project for Major Project
 
 ### Group Member
-Shivee Singh  
-Neha Tevathia  
-Mengting (Joyce) Chang  
-Xinran(Grace) Zhang  
-Tianqi Wang  
+AKASH C P
+KAILASH GANDHI
 
 ### Table of Content
 - Dataset Overview
