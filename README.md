@@ -11,8 +11,6 @@ KAILASH GANDHI
 - Model Fitting 
 - Results
 
-![alt text](https://github.com/tianqwang/MSDS621-Final-Project/blob/master/image/Power-In-Positivity.jpg?raw=true)
-
 ### Dataset Overview
 The threat of abuse and harassment online prevent many people from expressing themselves and make them give up on seeking different opinions. In the meantime, platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. Therefore, Kaggle started this competition with the Conversation AI team, a research initiative founded by Jigsaw and Google. The competition could be found here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
